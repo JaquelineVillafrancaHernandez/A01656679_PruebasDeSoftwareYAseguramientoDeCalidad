@@ -205,3 +205,8 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Reportes
+P1_Reporte.md
+P2_Reporte.md
+P3_Reporte.md
